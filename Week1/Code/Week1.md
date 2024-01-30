@@ -43,3 +43,26 @@ What I've learnt today
 * User Input
 
     
+1.3 Java Conditional Statements
+
+* Java if-else statements
+    
+    The if statement executes a certain section of code if the test expression is evaluated to true.
+
+    Statements inside the body of else block are executed if the test expression is evaluated to false. This is known as the if-...else statement in Java.
+
+* Java if - else if - else statements
+
+    In Java, we have an if...else...if ladder, that can be used to execute one block of code among multiple other blocks.
+
+* Nested if-else statements
+
+    In Java, we have an if...else...if ladder, that can be used to execute one block of code among multiple other blocks.
+
+* Java Ternary Operator
+
+    A ternary operator evaluates the test condition and executes a block of code based on the result of the condition.
+
+    The ternary operator can be used to replace certain types of if...else statements.
+
+        condition ? expression1 : expression2;
